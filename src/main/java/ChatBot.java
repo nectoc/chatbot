@@ -51,7 +51,6 @@ public class ChatBot {
         } catch (Exception e){
             e.printStackTrace();
         }
-
     }
 
     private static String getResourcePath() {
